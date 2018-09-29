@@ -8,6 +8,7 @@ public class BuggyUtilClient {
         System.out.println("Out: " +
         StringUtils.makePurdueUsername("Sean", "Flannery"));
         BuggyUtilClient b = new BuggyUtilClient();
+        BuggyUtilClient buc = new BuggyUtilClient();
     }
 }
 
